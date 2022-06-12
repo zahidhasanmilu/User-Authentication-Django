@@ -5,3 +5,9 @@ id = 211904101083
 address:
 FullBari Dinajpur
 Mirpur 12, Dhaka Bangladesh
+
+
+experiance = 
+Networking
+Graphic
+Video Editing

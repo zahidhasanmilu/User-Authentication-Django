@@ -11,3 +11,8 @@ experiance =
 Networking
 Graphic
 Video Editing
+
+education:
+School = Fulbari G.M Pilot High School
+College = Jessore Polytechnic Institute
+University = Northern Uniersity Bangladesh
